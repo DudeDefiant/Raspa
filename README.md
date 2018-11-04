@@ -16,7 +16,13 @@ WAMP (APACHE)
 
 How to Use
 
---> Start by installing WAMP on your favourite OS. --> move the RASPA folder to /Wamp/www/ --> create a localhost from wamp server --> and explore our website --> Alternatively you can create your own localhost via firebase. -->https://firebase.google.com/docs/web/setup -->Start from index.html to enjoy the full website!
+--> Start by installing WAMP on your favourite OS. 
+--> move the RASPA folder to /Wamp/www/ 
+--> create a localhost from wamp server 
+--> and explore our website 
+--> Alternatively you can create your own localhost via firebase. 
+-->https://firebase.google.com/docs/web/setup 
+-->Start from index.html to enjoy the full website!
 
 Authors
   Raj Das
